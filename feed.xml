@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi, I am Stii</title>
+    <description>Personal interesting stuff.</description>
+    <link>http://stii.github.io/</link>
+    <atom:link href="http://stii.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>As it turns out...</title>
+        <description>&lt;p&gt;I&amp;rsquo;ve been quiet for a long time. I&amp;rsquo;ve made some half arsed attempts previously to start writing again, but it ended up being too much of an effort, so I just let it fade into obscurity.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve decided it is time for another attempt, but this time I&amp;rsquo;ll do it for me. I&amp;rsquo;ll write about anything. I&amp;rsquo;ve never actually wrote about life, the universe and all that crap.&lt;/p&gt;
+
+&lt;p&gt;I think I might enjoy it.&lt;/p&gt;
+
+&lt;p&gt;Just forgive the odd technical post that may or may not pop up, as old habits die hard.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 May 2015 12:22:22 +0200</pubDate>
+        <link>http://stii.github.io/blogging/personal/2015/05/27/as-it-turns-out/</link>
+        <guid isPermaLink="true">http://stii.github.io/blogging/personal/2015/05/27/as-it-turns-out/</guid>
+      </item>
+    
+  </channel>
+</rss>
